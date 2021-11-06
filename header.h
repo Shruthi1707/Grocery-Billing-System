@@ -1,0 +1,14 @@
+void disp_items();//done
+void disp_mem();
+void add_mem();
+int payment(char[],char[],int);
+void pay_dues();
+void billing();
+void disp_bill(char[],char[]);
+void add_items();
+void payment_membership();
+int search_by_name(char*);
+int search_by_numb(char*);
+void payment_due(char*);
+void balance_due(char[],char[],int);
+float billing_member(char*,float);
